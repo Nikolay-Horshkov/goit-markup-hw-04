@@ -141,7 +141,9 @@ img {
   padding-bottom: 188px;
   background-color: var(--dark-color);
 }
-
+.block-hero {
+  background-image: url(../images/);
+}
 .container {
   width: 100%;
   max-width: 1158px;
@@ -157,10 +159,6 @@ img {
   text-align: center;
   color: #ffffff;
 }
-/* .container-hero {
-  padding-top: 188px;
-  padding-bottom: 188px;
-} */
 .hero-btn {
   border: none;
   margin: 0 auto;
