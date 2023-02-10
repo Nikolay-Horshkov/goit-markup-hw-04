@@ -159,7 +159,7 @@ img {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  outline: 2px solid red;
+  /* outline: 2px solid red; */
 }
 .hero-title {
   margin-bottom: 48px;
@@ -202,7 +202,6 @@ img {
   margin-bottom: 8px;
   background: #f4f4fd;
   border-radius: 4px;
-  /* outline: 2px solid red; */
 }
 .features-subtitle {
   margin-bottom: 8px;
